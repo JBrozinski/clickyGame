@@ -31,12 +31,12 @@
   },
   {
     "id": 7,
-    "image": "/assets/images/pulpfiction300.jpg",
+    "image": "/assets/images/pulpFiction300.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/dieHard300.jpg",
+    "image": "/assets/images/dieHard300.png",
     "clicked": false
   },
   {
